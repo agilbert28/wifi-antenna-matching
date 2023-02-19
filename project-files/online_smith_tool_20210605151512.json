@@ -1,0 +1,66 @@
+[
+	{
+		"type": "raw",
+		"zo": 50,
+		"freq": 2450,
+		"er": 1,
+		"freq_unit": {
+			"unit": "MHz",
+			"multiplier": 1000000
+		},
+		"span": 0,
+		"span_unit": {
+			"unit": "MHz",
+			"multiplier": 1000000
+		}
+	},
+	{
+		"type": "bb",
+		"real": "1.00",
+		"imaginary": "0.00",
+		"abs": 50,
+		"abs_bb_i": 0,
+		"unit": "null",
+		"line_length": 0
+	},
+	{
+		"type": "pc",
+		"real": "0.00",
+		"imaginary": "-1.30e-2",
+		"abs": 100,
+		"unit": "pF",
+		"line_length": 0
+	},
+	{
+		"type": "sr",
+		"real": "0.827",
+		"imaginary": "0.00",
+		"abs": 41.36,
+		"unit": "Ω",
+		"line_length": 0
+	},
+	{
+		"type": "pi",
+		"real": "0.00",
+		"imaginary": "185",
+		"abs": 600,
+		"unit": "nH",
+		"line_length": 0
+	},
+	{
+		"type": "si",
+		"real": "0.00",
+		"imaginary": "0.379",
+		"abs": 1.23,
+		"unit": "nH",
+		"line_length": 0
+	},
+	{
+		"type": "pc",
+		"real": "0.00",
+		"imaginary": "-2.19",
+		"abs": 0.593,
+		"unit": "pF",
+		"line_length": 0
+	}
+]
